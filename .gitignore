@@ -43,3 +43,7 @@ stamp-h1
 /tests/test-reader
 /tests/test-version
 /dist/
+/target/
+Cargo.lock
+compile_commands.json
+/.vscode/

@@ -1,0 +1,8 @@
+#include "api.c"
+#include "dumper.c"
+#include "emitter.c"
+#include "loader.c"
+#include "parser.c"
+#include "reader.c"
+#include "scanner.c"
+#include "writer.c"
